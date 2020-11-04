@@ -1,0 +1,12 @@
+build/
+.idea/
+.gradle/
+.settings/
+*.zip
+*.iml
+*.ipr
+*.iws
+*.classpath
+src/main/generated-sources
+src/main/generated/
+
